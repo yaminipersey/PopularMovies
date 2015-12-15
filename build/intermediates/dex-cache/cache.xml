@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Yamini\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Yamini\AndroidStudioProjects\prj2\PopularMovies\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-12d02091393c4948a0b0330e12410c521f3cd7bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yamini\AndroidStudioProjects\prj2\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Yamini\AndroidStudioProjects\prj2\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-b712f43871e89637a61e522fb582bf8006c47747.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yamini\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Yamini\AndroidStudioProjects\prj2\PopularMovies\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-2fffdd59e01954fa85e85cd4559a40a671a3f0b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yamini\AndroidStudioProjects\prj2\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Yamini\AndroidStudioProjects\prj2\PopularMovies\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-dd12d19df78b6c1280202fb65ae0208c95ee7a07.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yamini\AndroidStudioProjects\prj2\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\Yamini\AndroidStudioProjects\prj2\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-bc8f1addb74ea2a60de0ccc65805f9d3343d9905.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yamini\AndroidStudioProjects\prj2\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Yamini\AndroidStudioProjects\prj2\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-2d975b9460b3ff77eb34615749bb1d1dbf3f4930.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yamini\AndroidStudioProjects\prj2\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\Yamini\AndroidStudioProjects\prj2\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-ce68c40bba1495da79f1aae36e71bf33b4634eb0.jar" />
+    </item>
+
+</items>
